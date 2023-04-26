@@ -1,0 +1,1551 @@
+﻿[
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Country"
+      ],
+      "properties": {
+        "num_division": "95",
+        "name": "United States"
+      },
+      "elementId": "0"
+    }
+  },
+  {
+    "n": {
+      "identity": 1,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "1st Infantry Division",
+        "year_created": "1917",
+        "casualties": "20659"
+      },
+      "elementId": "1"
+    }
+  },
+  {
+    "n": {
+      "identity": 2,
+      "labels": [
+        "Theater"
+      ],
+      "properties": {
+        "name": "Western Europe"
+      },
+      "elementId": "2"
+    }
+  },
+  {
+    "n": {
+      "identity": 3,
+      "labels": [
+        "Theater"
+      ],
+      "properties": {
+        "name": "North Africa"
+      },
+      "elementId": "3"
+    }
+  },
+  {
+    "n": {
+      "identity": 4,
+      "labels": [
+        "Theater"
+      ],
+      "properties": {
+        "name": "Italy"
+      },
+      "elementId": "4"
+    }
+  },
+  {
+    "n": {
+      "identity": 5,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "11th Airborne Division",
+        "year_created": "1943",
+        "casualties": "2431"
+      },
+      "elementId": "5"
+    }
+  },
+  {
+    "n": {
+      "identity": 6,
+      "labels": [
+        "Theater"
+      ],
+      "properties": {
+        "name": "Pacific"
+      },
+      "elementId": "6"
+    }
+  },
+  {
+    "n": {
+      "identity": 7,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1949",
+        "name": "17th Airborne Division",
+        "year_created": "1943",
+        "casualties": "6745"
+      },
+      "elementId": "7"
+    }
+  },
+  {
+    "n": {
+      "identity": 8,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "82nd Airborne Division",
+        "year_created": "1917",
+        "casualties": "9073"
+      },
+      "elementId": "8"
+    }
+  },
+  {
+    "n": {
+      "identity": 9,
+      "labels": [
+        "Type"
+      ],
+      "properties": {
+        "name": "Infantry"
+      },
+      "elementId": "9"
+    }
+  },
+  {
+    "n": {
+      "identity": 10,
+      "labels": [
+        "Type"
+      ],
+      "properties": {
+        "name": "Armor"
+      },
+      "elementId": "10"
+    }
+  },
+  {
+    "n": {
+      "identity": 11,
+      "labels": [
+        "Type"
+      ],
+      "properties": {
+        "name": "Airborne"
+      },
+      "elementId": "11"
+    }
+  },
+  {
+    "n": {
+      "identity": 12,
+      "labels": [
+        "Type"
+      ],
+      "properties": {
+        "name": "Marine"
+      },
+      "elementId": "12"
+    }
+  },
+  {
+    "n": {
+      "identity": 13,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1946",
+        "name": "13th Airborne Division",
+        "year_created": "1943",
+        "casualties": "0"
+      },
+      "elementId": "13"
+    }
+  },
+  {
+    "n": {
+      "identity": 14,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "101st Airborne Division",
+        "year_created": "1918",
+        "casualties": "9328"
+      },
+      "elementId": "14"
+    }
+  },
+  {
+    "n": {
+      "identity": 15,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "1st Armored Division",
+        "year_created": "1940",
+        "casualties": "7096"
+      },
+      "elementId": "15"
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1995",
+        "name": "2nd Armored Division",
+        "year_created": "1940",
+        "casualties": "5864"
+      },
+      "elementId": "16"
+    }
+  },
+  {
+    "n": {
+      "identity": 17,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1992",
+        "name": "3rd Armored Division",
+        "year_created": "1941",
+        "casualties": "9243"
+      },
+      "elementId": "17"
+    }
+  },
+  {
+    "n": {
+      "identity": 18,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1972",
+        "name": "4th Armored Division",
+        "year_created": "1941",
+        "casualties": "6212"
+      },
+      "elementId": "18"
+    }
+  },
+  {
+    "n": {
+      "identity": 19,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1956",
+        "name": "5th Armored Division",
+        "year_created": "1941",
+        "casualties": "3075"
+      },
+      "elementId": "19"
+    }
+  },
+  {
+    "n": {
+      "identity": 20,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1956",
+        "name": "6th Armored Division",
+        "year_created": "1942",
+        "casualties": "4670"
+      },
+      "elementId": "20"
+    }
+  },
+  {
+    "n": {
+      "identity": 21,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1953",
+        "name": "7th Armored Division",
+        "year_created": "1942",
+        "casualties": "5799"
+      },
+      "elementId": "21"
+    }
+  },
+  {
+    "n": {
+      "identity": 22,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1945",
+        "name": "8th Armored Division",
+        "year_created": "1942",
+        "casualties": "2011"
+      },
+      "elementId": "22"
+    }
+  },
+  {
+    "n": {
+      "identity": 23,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1945",
+        "name": "9th Armored Division",
+        "year_created": "1942",
+        "casualties": "3845"
+      },
+      "elementId": "23"
+    }
+  },
+  {
+    "n": {
+      "identity": 24,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1945",
+        "name": "10th Armored Division",
+        "year_created": "1942",
+        "casualties": "4031"
+      },
+      "elementId": "24"
+    }
+  },
+  {
+    "n": {
+      "identity": 25,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1945",
+        "name": "11th Armored Division",
+        "year_created": "1942",
+        "casualties": "2877"
+      },
+      "elementId": "25"
+    }
+  },
+  {
+    "n": {
+      "identity": 26,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1945",
+        "name": "12th Armored Division",
+        "year_created": "1942",
+        "casualties": "3527"
+      },
+      "elementId": "26"
+    }
+  },
+  {
+    "n": {
+      "identity": 27,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1945",
+        "name": "13th Armored Division",
+        "year_created": "1942",
+        "casualties": "1176"
+      },
+      "elementId": "27"
+    }
+  },
+  {
+    "n": {
+      "identity": 28,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1945",
+        "name": "14th Armored Division",
+        "year_created": "1942",
+        "casualties": "2690"
+      },
+      "elementId": "28"
+    }
+  },
+  {
+    "n": {
+      "identity": 29,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1945",
+        "name": "16th Armored Division",
+        "year_created": "1943",
+        "casualties": "32"
+      },
+      "elementId": "29"
+    }
+  },
+  {
+    "n": {
+      "identity": 30,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1946",
+        "name": "20th Armored Division",
+        "year_created": "1943",
+        "casualties": "186"
+      },
+      "elementId": "30"
+    }
+  },
+  {
+    "n": {
+      "identity": 31,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "1st Cavalry Division",
+        "year_created": "1921",
+        "casualties": "4055"
+      },
+      "elementId": "31"
+    }
+  },
+  {
+    "n": {
+      "identity": 32,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1944",
+        "name": "2nd Cavalry Division",
+        "year_created": "1940",
+        "casualties": "0"
+      },
+      "elementId": "32"
+    }
+  },
+  {
+    "n": {
+      "identity": 33,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "2nd Infantry Division",
+        "year_created": "1917",
+        "casualties": "16795"
+      },
+      "elementId": "33"
+    }
+  },
+  {
+    "n": {
+      "identity": 34,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "3rd Infantry Division",
+        "year_created": "1917",
+        "casualties": "25977"
+      },
+      "elementId": "34"
+    }
+  },
+  {
+    "n": {
+      "identity": 35,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "4th Infantry Division",
+        "year_created": "1917",
+        "casualties": "22660"
+      },
+      "elementId": "35"
+    }
+  },
+  {
+    "n": {
+      "identity": 36,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1992",
+        "name": "5th Infantry Division",
+        "year_created": "1917",
+        "casualties": "12818"
+      },
+      "elementId": "36"
+    }
+  },
+  {
+    "n": {
+      "identity": 37,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1994",
+        "name": "6th Infantry Division",
+        "year_created": "1917",
+        "casualties": "2370"
+      },
+      "elementId": "37"
+    }
+  },
+  {
+    "n": {
+      "identity": 38,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "7th Infantry Division",
+        "year_created": "1917",
+        "casualties": "9212"
+      },
+      "elementId": "38"
+    }
+  },
+  {
+    "n": {
+      "identity": 39,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1992",
+        "name": "8th Infantry Division",
+        "year_created": "1918",
+        "casualties": "13986"
+      },
+      "elementId": "39"
+    }
+  },
+  {
+    "n": {
+      "identity": 40,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1991",
+        "name": "9th Infantry Division",
+        "year_created": "1918",
+        "casualties": "23277"
+      },
+      "elementId": "40"
+    }
+  },
+  {
+    "n": {
+      "identity": 41,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "10th Mountain Division",
+        "year_created": "1943",
+        "casualties": "4072"
+      },
+      "elementId": "41"
+    }
+  },
+  {
+    "n": {
+      "identity": 42,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "2006",
+        "name": "24th Infantry Division",
+        "year_created": "1921",
+        "casualties": "7012"
+      },
+      "elementId": "42"
+    }
+  },
+  {
+    "n": {
+      "identity": 43,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "25th Infantry Division",
+        "year_created": "1941",
+        "casualties": "5432"
+      },
+      "elementId": "43"
+    }
+  },
+  {
+    "n": {
+      "identity": 44,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1993",
+        "name": "26th Infantry Division",
+        "year_created": "1917",
+        "casualties": "10701"
+      },
+      "elementId": "44"
+    }
+  },
+  {
+    "n": {
+      "identity": 45,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1967",
+        "name": "27th Infantry Division",
+        "year_created": "1917",
+        "casualties": "6533"
+      },
+      "elementId": "45"
+    }
+  },
+  {
+    "n": {
+      "identity": 46,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "28th Infantry Division",
+        "year_created": "1879",
+        "casualties": "16762"
+      },
+      "elementId": "46"
+    }
+  },
+  {
+    "n": {
+      "identity": 47,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "29th Infantry Division",
+        "year_created": "1917",
+        "casualties": "20620"
+      },
+      "elementId": "47"
+    }
+  },
+  {
+    "n": {
+      "identity": 48,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1974",
+        "name": "30th Infantry Division",
+        "year_created": "1917",
+        "casualties": "18446"
+      },
+      "elementId": "48"
+    }
+  },
+  {
+    "n": {
+      "identity": 49,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1968",
+        "name": "31st Infantry Division",
+        "year_created": "1917",
+        "casualties": "1733"
+      },
+      "elementId": "49"
+    }
+  },
+  {
+    "n": {
+      "identity": 50,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1967",
+        "name": "32nd Infantry Division",
+        "year_created": "1917",
+        "casualties": "13261"
+      },
+      "elementId": "50"
+    }
+  },
+  {
+    "n": {
+      "identity": 51,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1968",
+        "name": "33rd Infantry Division",
+        "year_created": "1917",
+        "casualties": "2426"
+      },
+      "elementId": "51"
+    }
+  },
+  {
+    "n": {
+      "identity": 52,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "34th Infantry Division",
+        "year_created": "1917",
+        "casualties": "16401"
+      },
+      "elementId": "52"
+    }
+  },
+  {
+    "n": {
+      "identity": 53,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "35th Infantry Division",
+        "year_created": "1917",
+        "casualties": "7296"
+      },
+      "elementId": "53"
+    }
+  },
+  {
+    "n": {
+      "identity": 54,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "36th Infantry Division",
+        "year_created": "1917",
+        "casualties": "19466"
+      },
+      "elementId": "54"
+    }
+  },
+  {
+    "n": {
+      "identity": 55,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1968",
+        "name": "37th Infantry Division",
+        "year_created": "1917",
+        "casualties": "5960"
+      },
+      "elementId": "55"
+    }
+  },
+  {
+    "n": {
+      "identity": 56,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "38th Infantry Division",
+        "year_created": "1917",
+        "casualties": "3464"
+      },
+      "elementId": "56"
+    }
+  },
+  {
+    "n": {
+      "identity": 57,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "40th Infantry Division",
+        "year_created": "1917",
+        "casualties": "3025"
+      },
+      "elementId": "57"
+    }
+  },
+  {
+    "n": {
+      "identity": 58,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1968",
+        "name": "41st Infantry Division",
+        "year_created": "1917",
+        "casualties": "4260"
+      },
+      "elementId": "58"
+    }
+  },
+  {
+    "n": {
+      "identity": 59,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "42nd Infantry Division",
+        "year_created": "1917",
+        "casualties": "3971"
+      },
+      "elementId": "59"
+    }
+  },
+  {
+    "n": {
+      "identity": 60,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1963",
+        "name": "43rd Infantry Division",
+        "year_created": "1925",
+        "casualties": "6026"
+      },
+      "elementId": "60"
+    }
+  },
+  {
+    "n": {
+      "identity": 61,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1954",
+        "name": "44th Infantry Division",
+        "year_created": "1924",
+        "casualties": "5655"
+      },
+      "elementId": "61"
+    }
+  },
+  {
+    "n": {
+      "identity": 62,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1968",
+        "name": "45th Infantry Division",
+        "year_created": "1923",
+        "casualties": "20993"
+      },
+      "elementId": "62"
+    }
+  },
+  {
+    "n": {
+      "identity": 63,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1968",
+        "name": "Americal Division",
+        "year_created": "1923",
+        "casualties": "4050"
+      },
+      "elementId": "63"
+    }
+  },
+  {
+    "n": {
+      "identity": 64,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "63rd Infantry Division",
+        "year_created": "1943",
+        "casualties": "4502"
+      },
+      "elementId": "64"
+    }
+  },
+  {
+    "n": {
+      "identity": 65,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1945",
+        "name": "65th Infantry Division",
+        "year_created": "1943",
+        "casualties": "1230"
+      },
+      "elementId": "65"
+    }
+  },
+  {
+    "n": {
+      "identity": 66,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1945",
+        "name": "66th Infantry Division",
+        "year_created": "1943",
+        "casualties": "1452"
+      },
+      "elementId": "66"
+    }
+  },
+  {
+    "n": {
+      "identity": 67,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1956",
+        "name": "69th Infantry Division",
+        "year_created": "1943",
+        "casualties": "1506"
+      },
+      "elementId": "67"
+    }
+  },
+  {
+    "n": {
+      "identity": 68,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1945",
+        "name": "70th Infantry Division",
+        "year_created": "1943",
+        "casualties": "3919"
+      },
+      "elementId": "68"
+    }
+  },
+  {
+    "n": {
+      "identity": 69,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1956",
+        "name": "71st Infantry Division",
+        "year_created": "1943",
+        "casualties": "1114"
+      },
+      "elementId": "69"
+    }
+  },
+  {
+    "n": {
+      "identity": 70,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "75th Infantry Division",
+        "year_created": "1943",
+        "casualties": "4324"
+      },
+      "elementId": "70"
+    }
+  },
+  {
+    "n": {
+      "identity": 71,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "76th Infantry Division",
+        "year_created": "1917",
+        "casualties": "2395"
+      },
+      "elementId": "71"
+    }
+  },
+  {
+    "n": {
+      "identity": 72,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "77th Infantry Division",
+        "year_created": "1917",
+        "casualties": "7461"
+      },
+      "elementId": "72"
+    }
+  },
+  {
+    "n": {
+      "identity": 73,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "78th Infantry Division",
+        "year_created": "1917",
+        "casualties": "8146"
+      },
+      "elementId": "73"
+    }
+  },
+  {
+    "n": {
+      "identity": 74,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "79th Infantry Division",
+        "year_created": "1917",
+        "casualties": "15203"
+      },
+      "elementId": "74"
+    }
+  },
+  {
+    "n": {
+      "identity": 75,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "80th Infantry Division",
+        "year_created": "1917",
+        "casualties": "17087"
+      },
+      "elementId": "75"
+    }
+  },
+  {
+    "n": {
+      "identity": 76,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "81st Infantry Division",
+        "year_created": "1917",
+        "casualties": "2914"
+      },
+      "elementId": "76"
+    }
+  },
+  {
+    "n": {
+      "identity": 77,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "83rd Infantry Division",
+        "year_created": "1917",
+        "casualties": "15910"
+      },
+      "elementId": "77"
+    }
+  },
+  {
+    "n": {
+      "identity": 78,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "84th Infantry Division",
+        "year_created": "1917",
+        "casualties": "7260"
+      },
+      "elementId": "78"
+    }
+  },
+  {
+    "n": {
+      "identity": 79,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "85th Infantry Division",
+        "year_created": "1917",
+        "casualties": "8774"
+      },
+      "elementId": "79"
+    }
+  },
+  {
+    "n": {
+      "identity": 80,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "86th Infantry Division",
+        "year_created": "1917",
+        "casualties": "785"
+      },
+      "elementId": "80"
+    }
+  },
+  {
+    "n": {
+      "identity": 81,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "87th Infantry Division",
+        "year_created": "1917",
+        "casualties": "6034"
+      },
+      "elementId": "81"
+    }
+  },
+  {
+    "n": {
+      "identity": 82,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1947",
+        "name": "88th Infantry Division",
+        "year_created": "1917",
+        "casualties": "13111"
+      },
+      "elementId": "82"
+    }
+  },
+  {
+    "n": {
+      "identity": 83,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1973",
+        "name": "89th Infantry Division",
+        "year_created": "1917",
+        "casualties": "1029"
+      },
+      "elementId": "83"
+    }
+  },
+  {
+    "n": {
+      "identity": 84,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "90th Infantry Division",
+        "year_created": "1917",
+        "casualties": "19200"
+      },
+      "elementId": "84"
+    }
+  },
+  {
+    "n": {
+      "identity": 85,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "91st Infantry Division",
+        "year_created": "1917",
+        "casualties": "8744"
+      },
+      "elementId": "85"
+    }
+  },
+  {
+    "n": {
+      "identity": 86,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1946",
+        "name": "93rd Infantry Division",
+        "year_created": "1917",
+        "casualties": "133"
+      },
+      "elementId": "86"
+    }
+  },
+  {
+    "n": {
+      "identity": 87,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "94th Infantry Division",
+        "year_created": "1918",
+        "casualties": "6533"
+      },
+      "elementId": "87"
+    }
+  },
+  {
+    "n": {
+      "identity": 88,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "95th Infantry Division",
+        "year_created": "1918",
+        "casualties": "6591"
+      },
+      "elementId": "88"
+    }
+  },
+  {
+    "n": {
+      "identity": 89,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "96th Infantry Division",
+        "year_created": "1918",
+        "casualties": "8812"
+      },
+      "elementId": "89"
+    }
+  },
+  {
+    "n": {
+      "identity": 90,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1946",
+        "name": "97th Infantry Division",
+        "year_created": "1918",
+        "casualties": "979"
+      },
+      "elementId": "90"
+    }
+  },
+  {
+    "n": {
+      "identity": 91,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "98th Infantry Division",
+        "year_created": "1918",
+        "casualties": "0"
+      },
+      "elementId": "91"
+    }
+  },
+  {
+    "n": {
+      "identity": 92,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1945",
+        "name": "99th Infantry Division",
+        "year_created": "1918",
+        "casualties": "6553"
+      },
+      "elementId": "92"
+    }
+  },
+  {
+    "n": {
+      "identity": 93,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "100th Infantry Division",
+        "year_created": "1918",
+        "casualties": "5038"
+      },
+      "elementId": "93"
+    }
+  },
+  {
+    "n": {
+      "identity": 94,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "102nd Infantry Division",
+        "year_created": "1922",
+        "casualties": "4922"
+      },
+      "elementId": "94"
+    }
+  },
+  {
+    "n": {
+      "identity": 95,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1945",
+        "name": "103rd Infantry Division",
+        "year_created": "1921",
+        "casualties": "4558"
+      },
+      "elementId": "95"
+    }
+  },
+  {
+    "n": {
+      "identity": 96,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "104th Infantry Division",
+        "year_created": "1921",
+        "casualties": "4961"
+      },
+      "elementId": "96"
+    }
+  },
+  {
+    "n": {
+      "identity": 97,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1950",
+        "name": "106th Infantry Division",
+        "year_created": "1943",
+        "casualties": "8627"
+      },
+      "elementId": "97"
+    }
+  },
+  {
+    "n": {
+      "identity": 98,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "destroyed in battle 1942",
+        "name": "Philippine Division",
+        "year_created": "1922",
+        "casualties": "10473"
+      },
+      "elementId": "98"
+    }
+  },
+  {
+    "n": {
+      "identity": 99,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "1st Marine Division",
+        "year_created": "1941",
+        "casualties": "24719"
+      },
+      "elementId": "99"
+    }
+  },
+  {
+    "n": {
+      "identity": 100,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "2nd Marine Division",
+        "year_created": "1941",
+        "casualties": "15418"
+      },
+      "elementId": "100"
+    }
+  },
+  {
+    "n": {
+      "identity": 101,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "3rd Marine Division",
+        "year_created": "1942",
+        "casualties": "11722"
+      },
+      "elementId": "101"
+    }
+  },
+  {
+    "n": {
+      "identity": 102,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "still around",
+        "name": "4th Marine Division",
+        "year_created": "1943",
+        "casualties": "17722"
+      },
+      "elementId": "102"
+    }
+  },
+  {
+    "n": {
+      "identity": 103,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1969",
+        "name": "5th Marine Division",
+        "year_created": "1943",
+        "casualties": "8363"
+      },
+      "elementId": "103"
+    }
+  },
+  {
+    "n": {
+      "identity": 104,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "year_disbanded": "1946",
+        "name": "6th Marine Division",
+        "year_created": "1944",
+        "casualties": "14744"
+      },
+      "elementId": "104"
+    }
+  }
+]
