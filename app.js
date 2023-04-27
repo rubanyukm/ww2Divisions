@@ -66,12 +66,6 @@ d3.json("ww2US.json").then(function(data) {
     console.log ("Total casualties: " + totalCasualties);
     console.log("Total divisions: " + totalDivisions);
 
-    //create a bar graph that shows the casualties for each division with the division that suffered the most casualties all the way to the left
-    //and the division that suffered the least casualties all the way to the right
-    //the y axis should be the casualties in thousands
-    //the x axis should be the division name rotated 45 degrees so that the names are readable
-    //the bar should be red if the division suffered more casualties than the average and blue if the division suffered less casualties than the average
-
     var x = d3.scaleBand()
         .range([0, width])
         .padding(0.1);
